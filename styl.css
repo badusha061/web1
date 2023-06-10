@@ -1,0 +1,280 @@
+body{
+   margin: 0;
+}
+section{
+   width: 100%;
+}
+.banner img{
+     width: 100%;
+      height: 30rem;
+  
+}
+.logo img{
+   z-index: 2;
+   top: 25rem;
+   left: 74rem;
+   position: fixed;
+
+}
+.logo img{
+   background-attachment: fixed;
+   width: 62px;
+}
+p{
+   text-align: center;
+   font-weight: 600;
+}
+.text{
+   position:  relative;
+   top: 0px;
+}
+.logo2{
+   height:100%;
+   width:600px;
+   float: left;
+}
+.logo2 img{
+   position:relative;
+   left: 200px;
+   height: 100px;
+}
+.book{
+   position: relative;
+   left:400px;
+   float: left;
+
+   
+}
+.book> button{
+   background-color:black;
+   color: white;
+   border: none;
+
+}
+.spf
+{
+   color: black;
+}
+.logo-book{
+   width: 100%;
+   height:100px;
+   background-color: #fff;
+}
+.spf{
+   background-color: black;
+   color: white;
+   text-align: center;
+}
+.himalaya
+{
+   display: flex;
+   justify-content: space-around;
+   
+}
+.pt h2{
+   
+   font-style: normal;
+   font-size: bold;
+}
+.c
+{ 
+   text-align:  center;
+   font-size: bold;
+}
+.e{
+   font-size: bold;
+}
+.f 
+{
+   font-size: bold;
+}
+.g 
+{
+   font-size: bold;
+}
+.s 
+{
+   font-size: bold;
+}
+.fe
+{
+   text-align: center;
+   background-color: black;
+   color: white;
+}
+
+.fe > h1{
+   margin-bottom: 0px;
+
+}
+.himalaya2
+{
+   display: inline-flex;
+   justify-content: space-between;
+}
+.ro1{
+   color: white;
+  height: 334px;
+   width:425px;
+position: relative;
+background-image: url(https://www.royalenfield.com/content/dam/royal-enfield/india/motorcycles/himalayan/campaign-new/tout/himalayan-tripper.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+overflow: none;
+text-align: center;
+display: flex;
+align-items: end;
+justify-content: center;
+}
+.ro2{
+   color: white;
+  height: 334px;
+   width:425px;
+position: relative;
+background-image: url(https://www.royalenfield.com/content/dam/royal-enfield/india/motorcycles/himalayan/campaign-new/tout/himalayan-adventure-ready.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+overflow: none;
+text-align: center;
+display: flex;
+align-items: end;
+justify-content: center;
+}
+.ro3{
+   color: white;
+  height: 334px;
+   width:425px;
+position: relative;
+background-image: url(https://www.royalenfield.com/content/dam/royal-enfield/india/motorcycles/himalayan/campaign-new/tout/himalayan-switchable-abs.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+overflow: none;
+text-align: center;
+display: flex;
+align-items: end;
+justify-content: center;
+}
+.clr > div 
+{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+   
+}
+.b 
+{ 
+   
+   display:  flex;
+   justify-content: space-between;
+   background-color: black;
+
+}
+.bb > img
+{
+
+   height: 340px;
+   width: 429px;
+}
+.bbb > img
+{ 
+ 
+   height: 340px;
+   width: 440px;
+}
+.bbbb > img
+{
+   
+   height: 340px;
+   width: 404px;
+}
+.a 
+{
+   background-color: black;
+   color: white;
+   text-align: center;
+   font-weight: bold;
+}
+.k 
+{
+   display: flex;
+   justify-content: space-around;
+   background-color: black;
+}
+
+.k2 > img
+{
+   width: 120px;
+   height: 116px;
+   position: relative;
+   left: 259px;
+}
+
+.k3 > img
+{
+   width: 120px;
+   height: 115px;
+
+}
+.k4 > img
+{
+   width: 120px;
+    height: 115px;
+    position: relative;
+    right: 235px;
+}
+.t{
+   font-weight: bold;
+   text-align: center;
+   font-size: 25px;
+   font-family: "Book a Test Ride", Arial, sans-serif;
+}
+.fo
+{
+   position: relative;
+   left: 370px;
+   bottom: 20px;
+ 
+}
+.fo input{
+   padding: 10px;
+   width: 250px;
+}
+.d
+{
+   position: relative;
+   left: 370px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.ch
+{
+   display: flex;
+   
+}
+.che
+{
+   position: relative;
+   left: 370px;
+   top: 20px;
+
+}
+.che{
+   font-size: medium;
+}
+.chec
+{
+   position: relative;
+   left: 380px;
+   
+}
+.bu
+{
+   position: relative;
+   left: 370px ;
+}
+
+
+
